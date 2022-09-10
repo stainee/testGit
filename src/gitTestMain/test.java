@@ -13,6 +13,7 @@ public class test {
 	}
 	public void jinTest() {
 		System.out.println("test method");
+		System.out.println("test method2");
 	}
 	public void bonwoongTestMethod2() {
 		System.out.println("test code 2");
