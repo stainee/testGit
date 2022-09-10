@@ -11,4 +11,8 @@ public class test {
 	public void bonwoongTestMethod() {
 		System.out.println("just test");
 	}
+	public void jinTest() {
+		System.out.println("test method");
+	}
+
 }
