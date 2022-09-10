@@ -7,5 +7,8 @@ public class test {
 		System.out.println("first commit");
 		System.out.println("1234123");
 	}
-
+	
+	public void bonwoongTestMethod() {
+		System.out.println("just test");
+	}
 }
